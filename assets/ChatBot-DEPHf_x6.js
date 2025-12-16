@@ -1,4 +1,4 @@
-import{r as a,j as e}from"./vendor-BunRHuGz.js";import{G as y}from"./genai-4T0bCi7J.js";import{R as r,S as N,P as v,E as S}from"./index-D6jpvnPU.js";import{X as I,f as A,S as E,U as $,g as b,h as k}from"./lucide-D9KXQ925.js";import{A as D,m as C}from"./framer-motion-BpyXYZWU.js";import"./three-vendors-BtcjhKwD.js";const M=`
+import{r as a,j as e}from"./vendor-BunRHuGz.js";import{G as y}from"./genai-4T0bCi7J.js";import{R as r,S as N,P as v,E as S}from"./index-DiULPqwO.js";import{X as I,f as A,S as E,U as $,g as b,h as k}from"./lucide-D9KXQ925.js";import{A as D,m as C}from"./framer-motion-BpyXYZWU.js";import"./three-vendors-BtcjhKwD.js";const M=`
 You are an AI assistant for ${r.name}'s professional portfolio website.
 Your role is to answer questions about Alex's skills, experience, and projects professionally and concisely.
 Refuse to answer questions unrelated to Alex's professional life or technology.
