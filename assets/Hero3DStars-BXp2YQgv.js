@@ -1,0 +1,1 @@
+import{j as t}from"./vendor-BunRHuGz.js";import{a as r}from"./three-vendors-BtcjhKwD.js";const e=()=>t.jsx(r,{radius:100,depth:50,count:5e3,factor:4,saturation:0,fade:!0,speed:1});export{e as default};
